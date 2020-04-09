@@ -1,2 +1,0 @@
-# GymTrackerProd
-Created with CodeSandbox
